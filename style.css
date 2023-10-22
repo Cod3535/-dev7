@@ -1,0 +1,43 @@
+.kare{
+    position: absolute;
+    top: 30%;
+    left: 38%;
+    width: 100px;
+    height: 100px;
+    background-color: black;
+}
+.kare1{
+    position: absolute;
+    top : 30%;
+    right: 38%;
+    width: 100px;
+    height: 100px;
+    background-color: black;
+}
+.dkg{
+    position: absolute;
+    top: 70%;
+    right: 40%;
+    width: 400px;
+    height: 25px;
+    background-color: black;
+}
+.kare2{
+    position: absolute;
+    top: 50%;
+    right: 50%;
+    width: 25px;
+    height: 25px;
+    background-color: black;
+}
+.daire{
+    position: absolute;
+    top: 20%;
+    right: 30%;
+    background-color: rgb(248, 196, 100);
+    width: 800px;
+    height: 600px;
+    border-radius: 50%;
+    z-index: -1;
+
+}
